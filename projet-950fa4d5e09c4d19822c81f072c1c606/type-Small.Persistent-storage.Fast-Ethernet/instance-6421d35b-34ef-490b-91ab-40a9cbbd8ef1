@@ -1,0 +1,10 @@
+{
+  "up_time": 7.556307870370371, 
+  "vcpus": "1", 
+  "gabarit": "Small.Persistent-storage.Fast-Ethernet", 
+  "nom_instance": "Test", 
+  "deleted_at": null, 
+  "image": "cirros-0.3.3-x86_64", 
+  "ram": "1024", 
+  "created_at": "2015-04-15T08:38:55Z"
+}

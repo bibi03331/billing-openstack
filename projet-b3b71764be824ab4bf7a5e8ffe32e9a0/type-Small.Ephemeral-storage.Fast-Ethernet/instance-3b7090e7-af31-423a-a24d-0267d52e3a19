@@ -1,0 +1,10 @@
+{
+  "up_time": 1.742048611111111, 
+  "vcpus": "1", 
+  "gabarit": "Small.Ephemeral-storage.Fast-Ethernet", 
+  "nom_instance": "windows_server_3", 
+  "deleted_at": "2015-04-23T08:21:38.000000", 
+  "image": "windows-server-2008-r2", 
+  "ram": "1024", 
+  "created_at": "2015-04-21T14:33:05.000000"
+}

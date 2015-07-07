@@ -1,0 +1,34 @@
+{
+    "volume_types": [
+        {
+            "extra_specs": {
+                "price:day": "0.0030",
+                "volume_backend_name": "CEPH"
+            },
+            "id": "0eeee2df-e84d-434d-9ea6-af5a6ed8d7d0",
+            "name": "CEPH - Gold storage"
+        },
+        {
+            "extra_specs": {
+                "price:day": "0.0037",
+                "volume_backend_name": "CEPH"
+            },
+            "id": "3891587c-b3b7-4992-9b40-9c22c0952038",
+            "name": "CEPH - Silver storage"
+        },
+        {
+            "extra_specs": {
+                "volume_backend_name": "LVM"
+            },
+            "id": "5715fb6b-739e-4f87-8f3b-4dd184f6283c",
+            "name": "LVM - Gold storage"
+        },
+        {
+            "extra_specs": {
+                "volume_backend_name": "LVM"
+            },
+            "id": "7a367518-5ab2-4a4c-98ca-d4ff029568c1",
+            "name": "LVM - Silver storage"
+        }
+    ]
+}

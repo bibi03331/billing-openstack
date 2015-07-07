@@ -1,0 +1,16 @@
+{
+  "instances": {
+    "Small.Ephemeral-storage.Fast-Ethernet": 0, 
+    "Tiny.Ephemeral-storage.Fast-Ethernet": 5.386886574074074, 
+    "Small.Persistent-storage.Fast-Ethernet": 7.556307870370371, 
+    "Tiny.Persistent-storage.Fast-Ethernet": 0.38347432407407406, 
+    "Medium.Ephemeral-storage.Gigabit-Ethernet": 0, 
+    "Medium.Persistent-storage.Gigabit-Ethernet": 0
+  }, 
+  "volumes": {
+    "CEPH - Gold storage": 438.33333333333337, 
+    "CEPH - Silver storage": 0, 
+    "LVM - Gold storage": 0, 
+    "LVM - Silver storage": 0
+  }
+}

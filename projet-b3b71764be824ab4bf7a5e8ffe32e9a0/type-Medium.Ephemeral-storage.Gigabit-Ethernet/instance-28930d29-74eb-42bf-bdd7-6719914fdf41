@@ -1,0 +1,10 @@
+{
+  "up_time": 2.008460648148148, 
+  "vcpus": "1", 
+  "gabarit": "Medium.Ephemeral-storage.Gigabit-Ethernet", 
+  "nom_instance": "windows_server_2", 
+  "deleted_at": "2015-04-23T08:21:38.000000", 
+  "image": "windows-server-2012-r2", 
+  "ram": "2048", 
+  "created_at": "2015-04-21T08:09:27.000000"
+}

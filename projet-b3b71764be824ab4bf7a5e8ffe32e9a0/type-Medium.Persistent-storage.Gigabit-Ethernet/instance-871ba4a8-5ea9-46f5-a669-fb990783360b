@@ -1,0 +1,10 @@
+{
+  "up_time": 0.00011618046296296296, 
+  "vcpus": null, 
+  "gabarit": null, 
+  "nom_instance": "windows_server", 
+  "deleted_at": "2015-04-17T14:31:44.037992", 
+  "image": null, 
+  "ram": null, 
+  "created_at": "2015-04-17 14:31:34+00:00"
+}

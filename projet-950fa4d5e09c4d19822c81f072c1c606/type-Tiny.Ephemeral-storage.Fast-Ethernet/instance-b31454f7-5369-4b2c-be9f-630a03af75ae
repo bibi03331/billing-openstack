@@ -1,0 +1,10 @@
+{
+  "up_time": 5.386886574074074, 
+  "vcpus": "1", 
+  "gabarit": "Tiny.Ephemeral-storage.Fast-Ethernet", 
+  "nom_instance": "Test", 
+  "deleted_at": null, 
+  "image": "cirros-0.3.3-x86_64", 
+  "ram": "512", 
+  "created_at": "2015-04-17T12:42:53Z"
+}
